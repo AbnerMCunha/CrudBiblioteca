@@ -1,0 +1,84 @@
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CadastrarClientes.resources
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Clientes.resources
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CadastrarFuncionario.resources
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CadastrarLivros.resources
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Livros.resources
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Funcionario.resources
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Biblioteca.resources
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ConsultarClientes.resources
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ConsultarFuncionario.resources
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ConsultarLivros.resources
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AlterarExcluirLivros.resources
+C:\Users\abner\source\repos\Biblioteca\Biblioteca\bin\Debug\BdBiblioteca.sql
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\bin\Debug\BdBiblioteca.sql
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AlterarExcluirLivros.resources
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CadastrarClientes.resources
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CadastrarFuncionario.resources
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CadastrarLivros.resources
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Clientes.resources
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ConsultarClientes.resources
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ConsultarFuncionario.resources
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ConsultarLivros.resources
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Biblioteca.resources
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Funcionario.resources
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Livros.resources
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\abner\source\repos\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Nova pasta\Biblioteca\Biblioteca\bin\Debug\BdBiblioteca.sql
+C:\Nova pasta\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Nova pasta\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Nova pasta\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AlterarExcluirLivros.resources
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CadastrarClientes.resources
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CadastrarFuncionario.resources
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CadastrarLivros.resources
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Clientes.resources
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ConsultarClientes.resources
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ConsultarFuncionario.resources
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ConsultarLivros.resources
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Biblioteca.resources
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Funcionario.resources
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Livros.resources
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\bin\Debug\BdBiblioteca.sql
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AlterarExcluirLivros.resources
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CadastrarClientes.resources
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CadastrarFuncionario.resources
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.CadastrarLivros.resources
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Clientes.resources
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ConsultarClientes.resources
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ConsultarFuncionario.resources
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ConsultarLivros.resources
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Biblioteca.resources
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Funcionario.resources
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Livros.resources
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\abner\Desktop\ABNER PC\Nova pasta\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
